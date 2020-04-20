@@ -9,7 +9,10 @@ Indiquez les membres de votre équipe
 
 
 # Description du projet
-Vous devez expliquer textuellement et clairement ce qu'est votre projet, à quoi il sert, ce qu'il peut faire.
+Une description textuelle claire qui permet de bien comprende les besoins, à quoi sert l'application, les fonctionnalités qui vont être réalisées.
+
+# Aspects implémentés
+La liste des aspects techniques qu'il faut implémenter pour mettre en place le projet, en séparant les aspects backend (base de données, procédures SQL, webservices, serveur de fichiers) et les aspects frontend (html, css, js, page web et fonctionnalités à proposer aux utilisateurs).
 
 # Détail api rest
 Pour chaque webservice, vous devez indiquer le endpoint, les paramètre et le format de réponse.
